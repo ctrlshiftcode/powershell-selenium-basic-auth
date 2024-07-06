@@ -1,1 +1,0 @@
-# powershell-selenium-basic-auth
